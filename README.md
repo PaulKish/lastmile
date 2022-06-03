@@ -12,6 +12,6 @@ This tool is built on Laravel
 
 ## Bash Script for IT Admin
 
-- git clone https://github.com/PaulKish/lastmile.git
-- sudo chown -R www-data:www-data lastmile
-- sudo cp -a lastmile/. /var/www/html
+`git clone https://github.com/PaulKish/lastmile.git
+ sudo chown -R www-data:www-data lastmile
+ sudo cp -a lastmile/. /var/www/html`
